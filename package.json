@@ -4,8 +4,9 @@
   "description": "A react crash course by Andile Jaden M",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack"
   },
   "author": "Andile Jaden Mbele",
   "license": "ISC",
